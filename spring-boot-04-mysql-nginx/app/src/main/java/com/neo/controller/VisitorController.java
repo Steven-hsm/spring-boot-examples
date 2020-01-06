@@ -1,7 +1,7 @@
-package com.neo.controller;
+package com.hsm.controller;
 
-import com.neo.entity.Visitor;
-import com.neo.repository.VisitorRepository;
+import com.hsm.entity.Visitor;
+import com.hsm.repository.VisitorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
