@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>spring-boot-banner</artifactId>
+	<artifactId>spring-boot-02-banner</artifactId>
 	<version>2.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Spring Boot banner</name>
+	<name>spring-boot-02-banner</name>
 	<description>A very useful project to demonstrate animated gif support in Spring Boot 2</description>
 
 	<parent>
@@ -24,6 +24,7 @@
 	</properties>
 
 	<dependencies>
+		<!-- 启动类-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
