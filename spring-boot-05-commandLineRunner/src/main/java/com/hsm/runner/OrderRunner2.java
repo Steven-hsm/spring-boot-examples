@@ -1,4 +1,4 @@
-package com.neo.runner;
+package com.hsm.runner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.annotation.Order;
